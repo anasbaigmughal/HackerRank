@@ -1,7 +1,7 @@
 # HackerRank
 Input Format
 
-A single line containing  space-separated integers: , , and .
+A single line containing  space-separated integers: a, b, and c.
 
 Output Format
 
